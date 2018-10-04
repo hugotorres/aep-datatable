@@ -1,0 +1,39 @@
+.current-price {
+    background-image: url(./images/icon-current-price.svg);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+.current-term {
+    background-image: url(./images/icon-current-term.svg);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+.monthly {
+    background-image: url(./images/icon-month.svg);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+.no-renew {
+    background-image: url(./images/icon-norenew.svg);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+.renew {
+    background-image: url(./images/icon-renew.svg);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+.revised {
+    background-image: url(./images/icon-revised.svg);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+
+
+
+.rightAlign {
+    text-align: right;
+}
+ .ag-row-odd {
+    background-color: #dedede !important;
+}
